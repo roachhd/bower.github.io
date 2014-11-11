@@ -1,9 +1,9 @@
 {
   "name": "bower.github.io",
   "version": "0.2.0",
-  "homepage": "https://github.com/desandro/bower.github.io",
+  "homepage": "https://github.com/roachhd/bower.github.io",
   "authors": [
-    "David DeSandro <desandrocodes@gmail.com>"
+    "Katie Ball <katie@roachhd.com>"
   ],
   "description": "Bower site",
   "license": "MIT",
